@@ -1,0 +1,63 @@
+@prefix id: <https://MotoGP.com/> .
+@prefix data: <https://MotoGP.com/ns/data#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+id:1
+    data:racename "Marc Marquez";
+    data:birthdate "1993-02-17";
+    data:nationality "Spain";
+    data:team "Repsol Honda Team".
+
+id:2  
+    data:racename "Valentino Rossi";
+    data:birthdate "1979-02-16";
+    data:nationality "Italy";
+    data:team "Petronas Yamaha SRT".
+
+id:3  
+    data:racename "Fabio Quartararo";
+    data:birthdate "1999-04-20";
+    data:nationality "France";
+    data:team "Monster Energy Yamaha".
+
+id:4  
+    data:racename "Francesco Bagnaia";
+    data:birthdate "1997-01-14";
+    data:nationality "Italy";
+    data:team "Ducati Lenovo Team".
+
+id:5  
+    data:racename "Joan Mir";
+    data:birthdate "1997-09-01";
+    data:nationality "Spain";
+    data:team "Team Suzuki Ecstar".
+
+id:6  
+    data:racename "Jack Miller";
+    data:birthdate "1995-01-18";
+    data:nationality "Australia";
+    data:team "Ducati Lenovo Team".
+
+id:7  
+    data:racename "Aleix Espargaro";
+    data:birthdate "1989-07-30";
+    data:nationality "Spain";
+    data:team "Aprilia Racing Team Gresini".
+
+id:8  
+    data:racename "Pol Espargaro";
+    data:birthdate "1991-06-10";
+    data:nationality "Spain";
+    data:team "Repsol Honda Team".
+
+id:9  
+    data:racename "Maverick Vinales";
+    data:birthdate "1995-01-12";
+    data:nationality "Spain";
+    data:team "Aprilia Racing Team Gresini".
+
+id:10  
+    data:racename "Jorge Martin";
+    data:birthdate "1998-01-29";
+    data:nationality "Spain";
+    data:team "Pramac Racing".
